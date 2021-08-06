@@ -1,1 +1,16 @@
-hola mundo la primera linea
+hola gennte la era la primera linea
+esta es la segunda linea
+esta es la tercera linea                        
+
+git es una SCV;
+
+esta es la cuarta linea: 
+
+este es el cambio para el commit 5
+
+git diff varios usos
+
+git reset #commit --soft vuelve en el tiempo sin borrar commits mas recientes 
+
+git reset #commit --hard vuelve en el tiempo borrando todos los commits que esten por encima del commit al cual volvimos ;
+                        
