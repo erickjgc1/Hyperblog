@@ -13,4 +13,7 @@ git diff varios usos
 git reset #commit --soft vuelve en el tiempo sin borrar commits mas recientes 
 
 git reset #commit --hard vuelve en el tiempo borrando todos los commits que esten por encima del commit al cual volvimos ;
+
+el git reset --soft vuelve al commit que indiquemos llevando todos los commits de esa versión en stagin
+
                         
