@@ -17,3 +17,5 @@ git reset #commit --hard vuelve en el tiempo borrando todos los commits que este
 el git reset --soft vuelve al commit que indiquemos llevando todos los commits de esa versión en stagin
 
 volvi en el tiempo con checkout 
+
+el checkout va al commit indicado sin llevar los commits de la versión de trabajo 
