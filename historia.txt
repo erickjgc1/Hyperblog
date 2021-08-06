@@ -19,3 +19,5 @@ el git reset --soft vuelve al commit que indiquemos llevando todos los commits d
 volvi en el tiempo con checkout 
 
 el checkout va al commit indicado sin llevar los commits de la versión de trabajo 
+
+esta es una prueba que se va a perder 
