@@ -30,6 +30,6 @@ head si algun commit más reciente sobreescribe esas lineas
 
 aca se agregaron html y css
 
-cambios a historia.txt pero no al styles.css para commit 
+cambios a historia.txt pero no al styles.css para commit s                       
 
 si no se quiere trackear el archivo lo agregamos a .gitignore
