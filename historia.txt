@@ -18,6 +18,12 @@ el git reset --soft vuelve al commit que indiquemos llevando todos los commits d
 
 volvi en el tiempo con checkout 
 
-el checkout va al commit indicado sin llevar los commits de la versión de trabajo 
+el checkout va al commit indicado sin llevar los commits de la versión de trabajo
 
-esta es una prueba que se va a perder
+
+
+la diferencia entre el git reset y el checkout es que el primero se devuelve en el tiempo borrando todos los 
+commits mas recientes y el segundo no lo borra. con la posibilidad de ir de nuevo al más reciente 
+
+al volver en el tiempo con checkout y modificar el archivo. estos cambios no tendran consecuencia en el 
+head si algun commit más reciente sobreescribe esas lineas 
