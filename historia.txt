@@ -27,3 +27,5 @@ commits mas recientes y el segundo no lo borra. con la posibilidad de ir de nuev
 
 al volver en el tiempo con checkout y modificar el archivo. estos cambios no tendran consecuencia en el 
 head si algun commit más reciente sobreescribe esas lineas 
+
+aca se agregaron html y css
