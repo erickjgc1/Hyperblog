@@ -1,0 +1,35 @@
+hola gennte la era la primera linea
+esta es la segunda linea
+esta es la tercera linea                        
+
+git es una SCV;
+
+esta es la cuarta linea: 
+
+este es el cambio para el commit 5
+
+git diff varios usos
+
+git reset #commit --soft vuelve en el tiempo sin borrar commits mas recientes 
+
+git reset #commit --hard vuelve en el tiempo borrando todos los commits que esten por encima del commit al cual volvimos ;
+
+el git reset --soft vuelve al commit que indiquemos llevando todos los commits de esa versión en stagin
+
+volvi en el tiempo con checkout 
+
+el checkout va al commit indicado sin llevar los commits de la versión de trabajo
+
+
+
+la diferencia entre el git reset y el checkout es que el primero se devuelve en el tiempo borrando todos los 
+commits mas recientes y el segundo no lo borra. con la posibilidad de ir de nuevo al más reciente 
+
+al volver en el tiempo con checkout y modificar el archivo. estos cambios no tendran consecuencia en el 
+head si algun commit más reciente sobreescribe esas lineas 
+
+aca se agregaron html y css
+
+cambios a historia.txt pero no al styles.css para commit s                       
+
+si no se quiere trackear el archivo lo agregamos a .gitignore
