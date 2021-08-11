@@ -37,4 +37,4 @@ si no se quiere trackear el archivo lo agregamos a .gitignore
 aca cambio en la tercera rama
 cambia a historia desde segunda rama
  
- Cambio desde la rama main fusionada 
+este cambio esta hecho desde windows
