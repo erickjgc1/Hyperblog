@@ -51,3 +51,5 @@ este es otro desde windows git
 
 git ssh desde windows
 desde ubuntu con ssh 
+
+desde laptop ubuntu otro usuario
