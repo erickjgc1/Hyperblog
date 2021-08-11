@@ -43,3 +43,5 @@ nuevo cambi desde ubuntu wsl con nombre de usuario cambiado
 el nombre de usuario esta ligado al del correo en GitHub. Github no toma en cuenta el nombre que esta en local 
 
 este es otro desde windows git
+
+desde ubuntu con ssh 
