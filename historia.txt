@@ -37,9 +37,9 @@ si no se quiere trackear el archivo lo agregamos a .gitignore
 aca cambio en la tercera rama
 cambia a historia desde segunda rama
  
- Cambio desde ubuntu de wsl
- 
 este cambio esta hecho desde windows
 nuevo cambi desde ubuntu wsl con nombre de usuario cambiado
 
 el nombre de usuario esta ligado al del correo en GitHub. Github no toma en cuenta el nombre que esta en local 
+
+este es otro desde windows git
