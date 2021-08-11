@@ -39,3 +39,4 @@ cambia a historia desde segunda rama
  
  Cambio desde ubuntu de wsl
  
+este cambio esta hecho desde windows
