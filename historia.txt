@@ -58,3 +58,5 @@ desde ubuntu con ssh
 desde laptop ubuntu otro usuario
 
 desde usuario Erickgonzalez2d en laptopubuntu
+
+esta es la primera versión
