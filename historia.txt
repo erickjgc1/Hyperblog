@@ -67,3 +67,4 @@ cambio desde github para prueba colaborador
  xxxxxxxxx
  zzzzzzzzzz
 wwwwwwwww
+los cambios de otros usuarios con ssh desde otras estaciones de trabajo no requieren pullRequest y se aceptan automaticamente como commits
