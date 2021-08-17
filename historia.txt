@@ -64,9 +64,7 @@ esta es la primera versión
 continuamos con el desarrollo sin los cambios experimentales
 cambio desde github para prueba colaborador
  cambio de erickjgc1
- xxxxxxxxx
- zzzzzzzzzz
-wwwwwwwww
+ 
 los cambios de otros usuarios con ssh desde otras estaciones de trabajo no requieren pullRequest y se aceptan automaticamente como commits
 cambio en github de erickjgc1
 cambio local de erickjgc1
