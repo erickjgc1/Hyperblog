@@ -1,5 +1,5 @@
 hola gennte la era la primera linea
-esta es la segunda linea
+festa es la segunda linea
 esta es la tercera linea                        
 corrijo tercer usuario
 git es una SCV;
@@ -11,6 +11,7 @@ para tercero cuarto intento
 tercer usuaio cambio5
 este es el cambio para el commit 5
 
+git diff varios usos
 
 git reset #commit --soft vuelve en el tiempo sin borrar commits mas recientes 
 
@@ -61,16 +62,8 @@ desde usuario Erickgonzalez2d en laptopubuntu
 esta es la primera versión  
 
 continuamos con el desarrollo sin los cambios experimentales
-cambio desde github para prueba colaborador
- cambio de erickjgc1
- 
-los cambios de otros usuarios con ssh desde otras estaciones de trabajo no requieren pullRequest y se aceptan automaticamente como commits
-cambio en github de erickjgc1
-cambio local de erickjgc1
-desde el pc con https
-
-
-cambio para comprobar token
 
 adición con token en enlace del remote
 otro cambio de colaborador
+cambio solo de rama lagarto
+esto es un arreglo en una rama temporal que no afecta el main y ya no esta chimbo porque lo mejoramos
