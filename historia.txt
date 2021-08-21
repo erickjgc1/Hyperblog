@@ -67,4 +67,6 @@ adición con token en enlace del remote
 otro cambio de colaborador
 cambio solo de rama lagarto
 esto es un arreglo en una rama temporal que no afecta el main y ya no esta chimbo porque lo mejoramos
+ultimo cambio de erickjgc1 como colaborador
 arreglo de rama sin ser colaborador siendo contribuyente 
+arreglo del contribuyente erickjgc1 en local ubuntu laptop
