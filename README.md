@@ -5,3 +5,6 @@ desde el github de erickjgc1
 ya tenia actualizado el local y modifico para push
 cambio del dueño
 vuelve a cambiar
+
+cambios relevantes
+
