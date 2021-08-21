@@ -7,4 +7,5 @@ cambio del dueño
 vuelve a cambiar
 
 cambios relevantes
-
+estos son muchos más cambios del autor original
+los cambios del autor original son inalcanzables
