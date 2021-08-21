@@ -4,3 +4,4 @@ desde el github de erickjgc1
 
 ya tenia actualizado el local y modifico para push
 kkk
+cambios relevantes
